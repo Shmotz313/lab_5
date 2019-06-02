@@ -9,6 +9,6 @@ int main()
 	std::cin >> b;	
 	std::cout << a + b;
 	std::cout << a - b;
-
+	std::cout << a / b;
 }
 
